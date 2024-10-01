@@ -5,7 +5,8 @@
       "file": "figura:font/emojis/discordrips.png",
       "ascent": 8,
       "chars": [
-        "\uE000\uE001"
+        "\uE000\uE001",
+        "\uE002\u0000"
       ]
     }
   ]
