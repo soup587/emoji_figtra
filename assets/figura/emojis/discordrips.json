@@ -1,0 +1,7 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["supermario"],
+    "\uE001": ["c_"]
+  }
+}

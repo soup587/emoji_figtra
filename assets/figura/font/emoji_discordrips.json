@@ -2,10 +2,10 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "figura:font/emojis/supermario.png",
+      "file": "figura:font/emojis/discordrips.png",
       "ascent": 8,
       "chars": [
-        "\uE000"
+        "\uE000\uE001"
       ]
     }
   ]
